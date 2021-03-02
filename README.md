@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on visual tools for V-Ray in SketchUp, Rhino and Revit
+- 🔭 I’m currently working on a set of visual tools for V-Ray in SketchUp, Rhino and Revit
 - 🌱 I’m currently learning Go
 - 💬 Ask me about Front-End, NodeJS, JS/TS, WebApps, Hybrid Apps, ElectronJS, Networking, Git, Algorithms
 
