@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on a set of visual tools for V-Ray in SketchUp, Rhino and Revit
-- 🌱 I’m currently learning Go
-- 💬 Ask me about Front-End, NodeJS, JS/TS, WebApps, Hybrid Apps, ElectronJS, Networking, Git, Algorithms
+- 🔭 I’m currently leading a team working on a set of visual tools for V-Ray in SketchUp, Rhino and Revit.
+- 🌱 I’m currently learning Go.
+- 💬 Ask me about Front-End, NodeJS, JS/TS, WebApps, Hybrid Apps, ElectronJS, Networking, Git, Algorithms.
 
 <!--
 **nbabanov/nbabanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
