@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently leading a team working on a set of visual tools for V-Ray in SketchUp, Rhino and Revit.
-- 🌱 I’m currently learning Go.
+- 🌱 I’m currently learning Rust.
 - 💬 Ask me about Front-End, NodeJS, JS/TS, WebApps, Hybrid Apps, ElectronJS, Networking, Git, Algorithms.
 
 <!--
