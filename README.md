@@ -7,7 +7,7 @@
 
 🌱 Pursuing a Masters degree in Science - Information Retrieval and Knowledge Discovery (AI).
 
-💬 Feel free to discuss with me AI, Application Development (back-end & front-end), Algorithms, Networking & Git.
+💬 Feel free to discuss with me AI, Application Development (back-end & front-end), Algorithms, Networking & VFX.
 
 <!--
 **nbabanov/nbabanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
