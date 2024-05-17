@@ -1,11 +1,9 @@
 ### Bio
-7+ years in technical positions | 1+ years in leadership capacity
+8+ years in technical positions | 2+ years in leadership capacity
 
 👷 Bachelor of Engineering who worked on a variety of projects in Professional Services, Gaming, Medical and 3D Visualization industries.
 
 🔭 Leading a team working on a set of visual tools for V-Ray in SketchUp, Rhino and Revit.
-
-🌱 Pursuing a Masters degree in Science - Information Retrieval and Knowledge Discovery (AI).
 
 💬 Feel free to discuss with me AI, Application Development (back-end & front-end), Algorithms, Networking & VFX.
 
