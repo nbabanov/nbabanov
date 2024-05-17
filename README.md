@@ -3,7 +3,7 @@
 
 👷 Bachelor of Engineering who worked on a variety of projects in Professional Services, Gaming, Medical and 3D Visualization industries.
 
-🔭 Leading a team working on a set of visual tools for V-Ray in SketchUp, Rhino and Revit.
+🔭 Leading V-Ray for AEC @ Chaos
 
 💬 Feel free to discuss with me AI, Application Development (back-end & front-end), Algorithms, Networking & VFX.
 
