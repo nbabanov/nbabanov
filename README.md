@@ -1,5 +1,5 @@
 ### Bio
-8+ years in technical positions | 2+ years in leadership capacity
+10+ years in technical positions | 5+ years in leadership capacity
 
 👷 Bachelor of Engineering who worked on a variety of projects in Professional Services, Gaming, Medical and 3D Visualization industries.
 
