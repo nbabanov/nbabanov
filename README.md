@@ -3,8 +3,6 @@
 
 👷 Bachelor of Engineering who worked on a variety of projects in Professional Services, Gaming, Medical and 3D Visualization industries.
 
-🔭 Leading V-Ray for AEC @ Chaos
-
 💬 Feel free to discuss with me AI, Application Development (back-end & front-end), Algorithms, Networking & VFX.
 
 <!--
